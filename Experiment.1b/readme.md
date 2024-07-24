@@ -1,6 +1,6 @@
 # program file
-! [program file](sjf.py)
+![program file](sjf.py)
 # Expected output
-! [Expected output](Expectedoutput.png)
+![Expected output](Expectedoutput.png)
 # Executed output
-! [Executed output](Executedoutput.png)
+![Executed output](Executedoutput.png)
