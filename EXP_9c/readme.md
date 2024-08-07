@@ -5,4 +5,4 @@
 ![# sample output](9c_ExpectedOutput_536.png)
 
 # executed output
-![# executed output](9c_ExecutedOutput_536.png)
+![# executed output](9d_ExecutedOutput_536.png)
