@@ -1,5 +1,5 @@
 # program file
-![#_program_file](9d_536.py)
+![#_program_file](9d_536.png)
 
 # sample output
 ![#_sample_output](9d_ExpectedOutput_536.png)
